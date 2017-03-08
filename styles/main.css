@@ -1,4 +1,9 @@
 body {
   color: black;
   background-color: white;
+
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 17px;
+
 }
