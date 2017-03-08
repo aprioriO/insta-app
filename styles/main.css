@@ -5,5 +5,14 @@ body {
   font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
   font-size: 14px;
   line-height: 17px;
+}
 
+.gost {
+  border: 1px solid black;
+  width: 100%;
+  height: 1200px;
+}
+
+.container {
+  padding: 90px;
 }
