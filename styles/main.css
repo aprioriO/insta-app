@@ -11,12 +11,12 @@ body {
   padding: 90px;
 }
 
-@@font-face {
-  font-family: Pacifico;
-  src: url(fonts/Pacifico/Pacifico-Regular.ttf);
+@font-face {
+  font-family: "Pinyon Script";
+  src: url('/fonts/PinyonScript/PinyonScript-Regular.ttf');
 }
 .brand {
-  font-family: Pacifico, cursive;
+  font-family: "Pinyon Script", cursive;
   font-size: 100px;
   text-align: center;
 }
