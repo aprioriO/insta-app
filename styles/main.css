@@ -30,3 +30,21 @@ body {
   text-align: center;
   color: #999;
 }
+
+.btn-primary {
+  line-height: 26px;
+  font-size: 14px;
+  font-weight: 600;
+
+  padding: 0 8px;
+  width: 100%;
+
+  background: #3897f0;
+  background-color: #3897f0;
+  color: #fff;
+
+  border-radius: 3px;
+  border: 1px solid;
+
+  outline: none;
+}
