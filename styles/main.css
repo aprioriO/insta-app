@@ -5,6 +5,8 @@ body {
   font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
   font-size: 14px;
   line-height: 17px;
+
+  margin: 0;
 }
 
 .container {
@@ -17,7 +19,7 @@ body {
 }
 .brand {
   font-family: "Pinyon Script", cursive;
-  font-size: 70px;
+  font-size: 66px;
   text-align: center;
   margin-top: 10px;
 }
@@ -26,5 +28,5 @@ body {
   font-size: 17px;
   line-height: 20px;
   text-align: center;
-  color: #999
+  color: #999;
 }
