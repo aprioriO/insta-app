@@ -52,6 +52,7 @@ body {
 
 .or-line {
   display: flex;
+  margin-bottom: 17px;
 }
 .or-line-hr {
   margin-top: 25px;
