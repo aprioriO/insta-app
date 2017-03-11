@@ -50,6 +50,10 @@ body {
   outline: none;
 }
 
+.btn-signup {
+  margin-top: 7px;
+}
+
 .or-line {
   display: flex;
   margin-bottom: 17px;
@@ -64,4 +68,19 @@ body {
   display: inline-block;
   margin: 18px 20px 0;
   color: #999
+}
+
+.input-field {
+  border: 1px solid #dbdbdb;
+  border-radius: 3px;
+
+  box-sizing: border-box;
+  padding: 9px 8px 7px;
+  margin-bottom: 5px;
+  width: 100%;
+
+  color: #262626;
+  font-size: 13px;
+
+  outline: none;
 }
