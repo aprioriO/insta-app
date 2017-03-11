@@ -25,11 +25,20 @@ body {
   margin-bottom: 29px;
 }
 
-.signup-para {
+.signup-text {
   font-size: 17px;
   line-height: 20px;
+}
+
+.signup-text,
+.policy-text {
   text-align: center;
   color: #999;
+}
+
+.policy-text {
+  font-size: 14px;
+  line-height: 15px;
 }
 
 .btn-primary {
