@@ -49,3 +49,9 @@ body {
 
   outline: none;
 }
+
+.or-line {
+  margin-top: 25px;
+  border: 0;
+  border-top: 1px solid #c7c7c7;
+}
