@@ -51,7 +51,16 @@ body {
 }
 
 .or-line {
+  display: flex;
+}
+.or-line-hr {
   margin-top: 25px;
   border: 0;
   border-top: 1px solid #c7c7c7;
+  width: 100%;
+}
+.or-line-span {
+  display: inline-block;
+  margin: 18px 20px 0;
+  color: #999
 }
