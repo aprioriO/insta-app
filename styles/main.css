@@ -36,20 +36,17 @@ a {
 }
 
 .signup-text,
-.policy-text {
+.policy-text,
+.policy-text a {
   color: #999;
 }
 
-.policy-text,
-.extrainfo,
-.anchorextra {
-  font-size: 14px;
+.policy-text {
   line-height: 15px;
 }
 
-.anchortext {
+.policy-text a {
   font-weight: bold;
-  color: #999;
 }
 
 .btn-primary {
