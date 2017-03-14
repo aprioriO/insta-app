@@ -108,13 +108,11 @@ a {
   color: #262626;
   margin-top: 92px;
 }
-
-.anchorextra {
+.extrainfo a {
   color: #3897f0;
 }
-
-.gettheapp {
-   margin-top:45px;
+.extrainfo p:nth-child(2) {
+   margin-top: 45px;
  }
 
 .store-btn {
