@@ -36,7 +36,9 @@ body {
   color: #999;
 }
 
-.policy-text {
+.policy-text,
+.extrainfo,
+.anchorextra {
   font-size: 14px;
   line-height: 15px;
 }
@@ -99,3 +101,23 @@ body {
 
   outline: none;
 }
+
+.extrainfo {
+  text-align: center;
+  color: #262626;
+  margin-top: 92px;
+}
+
+ .anchorextra {
+  text-decoration: none;
+  color: #3897f0;
+}
+
+ .gettheapp {
+   margin-top:45px;
+ }
+
+ .store-btn {
+   height: 136px;
+   width: 42px;
+ }
