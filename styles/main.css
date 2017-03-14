@@ -5,6 +5,7 @@ body {
   font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
   font-size: 14px;
   line-height: 17px;
+  text-align: center;
 
   margin: 0;
 }
@@ -25,7 +26,6 @@ a {
 .brand {
   font-family: "Pinyon Script", cursive;
   font-size: 60px;
-  text-align: center;
   margin-top: 3px;
   margin-bottom: 29px;
 }
@@ -37,7 +37,6 @@ a {
 
 .signup-text,
 .policy-text {
-  text-align: center;
   color: #999;
 }
 
@@ -61,7 +60,6 @@ a {
   padding: 0 8px;
   width: 100%;
 
-  background: #3897f0;
   background-color: #3897f0;
   color: #fff;
 
@@ -107,7 +105,6 @@ a {
 }
 
 .extrainfo {
-  text-align: center;
   color: #262626;
   margin-top: 92px;
 }
