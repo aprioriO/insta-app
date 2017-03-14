@@ -9,6 +9,10 @@ body {
   margin: 0;
 }
 
+a {
+  text-decoration: none;
+}
+
 .container {
   padding: 40px;
 }
@@ -17,6 +21,7 @@ body {
   font-family: "Pinyon Script";
   src: url('/fonts/PinyonScript/PinyonScript-Regular.ttf');
 }
+
 .brand {
   font-family: "Pinyon Script", cursive;
   font-size: 60px;
@@ -45,7 +50,6 @@ body {
 
 .anchortext {
   font-weight: bold;
-  text-decoration: none;
   color: #999;
 }
 
@@ -108,16 +112,15 @@ body {
   margin-top: 92px;
 }
 
- .anchorextra {
-  text-decoration: none;
+.anchorextra {
   color: #3897f0;
 }
 
- .gettheapp {
+.gettheapp {
    margin-top:45px;
  }
 
- .store-btn {
+.store-btn {
    height: 136px;
    width: 42px;
  }
