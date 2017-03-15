@@ -119,3 +119,10 @@ a {
    height: 42px;
    width: 136px;
  }
+
+ footer {
+   background-color: #FAFAFA;
+   width: 100%;
+   /* temporary */
+   height: 300px;
+ }
