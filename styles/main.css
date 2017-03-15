@@ -124,15 +124,18 @@ footer {
   background-color: #FAFAFA;
 
   width: 100%;
-  padding-top: 1px;
-  padding-bottom: 11px;
-
+  padding: 7px 0;
   text-transform: uppercase;
-  font-weight: bold;
-
+  font-size: 12px;
+}
+footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 footer li {
   display: inline-block;
+  margin: 0 13px 3px 0;
 }
 footer a {
   color: #003569;
