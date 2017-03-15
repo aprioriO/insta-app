@@ -112,17 +112,31 @@ a {
   color: #3897f0;
 }
 .extrainfo p:nth-child(2) {
-   margin-top: 45px;
+  margin-top: 45px;
  }
 
 .store-btn {
-   height: 42px;
-   width: 136px;
+  height: 42px;
+  width: 136px;
  }
 
- footer {
-   background-color: #FAFAFA;
-   width: 100%;
-   /* temporary */
-   height: 300px;
- }
+footer {
+  background-color: #FAFAFA;
+
+  width: 100%;
+  padding-top: 1px;
+  padding-bottom: 11px;
+
+  text-transform: uppercase;
+  font-weight: bold;
+
+}
+footer li {
+  display: inline-block;
+}
+footer a {
+  color: #003569;
+}
+footer span {
+  color: #999;
+}
